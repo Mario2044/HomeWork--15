@@ -1,5 +1,5 @@
 //Напишіть функцію min(a, b), яка повертає менше з двох чисел a та b.
-/*let a = prompt("Введите число", '');
+let a = prompt("Введите число", '');
 let b = prompt("Еще одно", '');
 function min(a, b) {
     return a < b ? a : b;
@@ -19,7 +19,7 @@ function pow(x, n) {
     return result;
 }
 alert(pow(x, n));
-*/
+
 
 //Перепишіть функцію, використовуючи  1) '?'  2) '||' або '&&'
 let agee = prompt("Сколько вам лет?");
